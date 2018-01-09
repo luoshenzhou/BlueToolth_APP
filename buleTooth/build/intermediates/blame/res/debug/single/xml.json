@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

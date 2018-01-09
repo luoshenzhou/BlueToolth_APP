@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <LinearLayout
+        android:background="@color/radio_bt_bg"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/ll_setting"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_undo"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="UNDO" />
+
+        <TextView
+            android:id="@+id/tv_set"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="SET" />
+
+        <TextView
+            android:id="@+id/tv_read"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="READ" />
+    </LinearLayout>
+    <ListView
+        android:layout_above="@+id/ll_setting"
+        android:id="@+id/lv_pagerContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

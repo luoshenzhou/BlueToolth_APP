@@ -1,0 +1,16 @@
+﻿#描述模组必须相同,模组和内存地址都是16进制
+#模组,参量名称,组件类型,内存地址,数值类型(int/float),数据长度(所占字节数),Scale,R/W,选项解释
+43,DL Frequency(MHz),text,004E,float,4,10,W
+43,UL Frequency(MHz),text,004A,float,4,10,R
+43,DL ATT,text,0023,int,1,1,W
+43,UL ATT,text,0026,int,1,1,W
+43,BAND,sbox,0056,int,1,1,W,1=5M&2=10M&3=15M&4=20M
+43,Smart Mode,switch,0028,int,1,1,W,1=ON&0=OFF
+43,Sleep Mode,switch,0042,int,1,1,W,1=ON&0=OFF
+43,CHT_Key,switch,0064,int,1,1,W,1=ON&0=OFF
+43,ISO Time(H),text,0054,int,2,60,W
+43,Output Power,text,0024,int,1,1,R
+43,DL ISO ADJ Value,text,003F,int,1,1,W
+43,UL ISO ADJ Value,text,003E,int,1,1,W
+43,AGC Alarm,alarm,0022,int,1,1,R,0=Normal&1=Alarm
+43,ISO Alarm,alarm,0027,int,1,1,R,0=Normal&1=Alarm

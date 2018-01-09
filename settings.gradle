@@ -1,0 +1,4 @@
+include ':app'
+include ':viewPagerIndicatorLibrary'
+include ':ViewPagerIndicatorSamples'
+include ':buleTooth'

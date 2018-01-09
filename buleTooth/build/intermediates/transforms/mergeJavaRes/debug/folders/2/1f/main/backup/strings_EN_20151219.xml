@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Utility</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="usb">USB</string>
+    <string name="communcation_type">Comm_Type：</string>
+    <string name="setting">Setting</string>
+    <string name="read">Read</string>
+    <string name="save">Save</string>
+    <string name="menu_exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="select_tip">Please select Comm_Type！</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="select_bluetooth">Please select Bluetooth Device</string>
+    <string name="set_ok">Parm set ok！</string>
+    <string name="read_ok">Parm query ok！</string>
+    <string name="save_ok">Parm save ok！</string>
+    <string name="param_isnull">Parm can not be null！</string>
+    <string name="device_open_success">Device open success！</string>
+    <string name="device_open_fail">Device open fail！</string>
+    <string name="device_close">Device close！</string>
+    <string name="usb_attached">Device Found：</string>
+    <string name="usb_remove">Device remove：</string>
+    <string name="usb_vendor_id">4292</string>
+    <string name="usb_product_id">60000</string>   
+    <string name="usb_ids">2385-5734</string>   
+</resources>

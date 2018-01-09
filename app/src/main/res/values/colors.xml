@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="Indigo_colorPrimaryDark">#303f9f</color>
+    <color name="Indigo_colorPrimary">#3f51b5</color>
+    <color name="Indigo_nav_color">#4675FF</color>
+
+
+
+    <!--登录页面背景-->
+    <color name="login_bg">#286CA7</color>
+    <!--登录页面背景-->
+    <color name="apha_login_bg">#99286CA7</color>
+    <!--登录页面背景-->
+    <color name="login_write_shape_bg">#DBE6F2</color>
+    <!--登录按钮背景-->
+    <color name="login_button_shape_bg">#21B7C6</color>
+    <!--书写账户的框背景-->
+    <color name="login_edit_bg_shape">#B7C3C9</color>
+    <color name="login_button_pressed">#FFFFFF</color>
+
+
+    <color name="radio_bt_bg">#40B0B3</color>
+    <color name="toolsbar_bg">#262B37</color>
+    <color name="toolsbar_bg_text">#ffffff</color>
+    <!--radiobutton文字选中和未选中的颜色-->
+    <color name="radio_button_text_selected">#b3ffffff</color>
+    <color name="radio_button_text_noselected">#ffffff</color>
+    <!--radiobutton背景选中和未选中的颜色-->
+    <color name="radio_button_bg_selected">#4c757575</color>
+    <color name="radio_button_bg_noselected">#00757575</color>
+
+    <!--indicator-->
+    <color name="indicator_selected_title_bg_foot_line">#757575</color>
+    <color name="indicator_selected_title_bg_foot_line_noselect">#00757575</color>
+    <!--indicator_title_text_selector-->
+    <color name="indicator_title_text_select">#ffffff</color>
+    <color name="indicator_title_text_noselect">#b3ffffff</color>
+</resources>

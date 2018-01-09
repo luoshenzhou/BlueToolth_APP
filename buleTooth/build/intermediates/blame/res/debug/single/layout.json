@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_radioext.xml",
+        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\layout\\layout_radioext.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\layout\\layout_text.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_radio.xml",
+        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\layout\\layout_radio.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_radio.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\layout\\layout_radio.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_radioext.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\layout\\layout_radioext.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text.xml",
+        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\layout\\layout_text.xml"
+    }
+]
