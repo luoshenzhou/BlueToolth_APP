@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles_bottom.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\layout\\simple_titles_bottom.xml"
-    },
-    {
         "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\layout\\themed_lines.xml",
         "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\layout\\themed_lines.xml"
+    },
+    {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles_bottom.xml",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\layout\\simple_titles_bottom.xml"
     },
     {
         "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles.xml",

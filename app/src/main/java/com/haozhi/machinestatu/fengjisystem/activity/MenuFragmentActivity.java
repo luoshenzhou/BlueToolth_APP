@@ -4,27 +4,20 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import com.haozhi.machinestatu.fengjisystem.R;
 import com.haozhi.machinestatu.fengjisystem.base.BaseActionBarActivity;
-import com.haozhi.machinestatu.fengjisystem.base.BasePager;
-import com.haozhi.machinestatu.fengjisystem.base.base_fragment.BaseFragment;
 import com.haozhi.machinestatu.fengjisystem.fragmentPager.AlarmFragment;
-import com.haozhi.machinestatu.fengjisystem.fragmentPager.AlarmPager;
 import com.haozhi.machinestatu.fengjisystem.fragmentPager.ControlFragment;
-import com.haozhi.machinestatu.fengjisystem.fragmentPager.ControlPager;
 import com.haozhi.machinestatu.fengjisystem.fragmentPager.MonitorFragment;
-import com.haozhi.machinestatu.fengjisystem.fragmentPager.MonitorPager;
 
 import java.util.ArrayList;
 import java.util.List;
