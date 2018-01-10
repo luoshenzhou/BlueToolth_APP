@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
         "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\FengJiSystem_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\color\\vpi__dark_theme.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\color\\vpi__dark_theme.xml"
     },
     {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",

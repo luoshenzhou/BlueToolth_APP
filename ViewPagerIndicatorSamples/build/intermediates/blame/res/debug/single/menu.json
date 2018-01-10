@@ -4,6 +4,10 @@
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\menu\\menu.xml"
     },
     {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
         "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\menu\\menu.xml"
     }

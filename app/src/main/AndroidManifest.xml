@@ -12,7 +12,7 @@
 
         android:theme="@style/AppTheme1">
 
-    <activity android:name=".activity.MenuFragmentActivity">
+    <activity android:name=".activity.MyActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 

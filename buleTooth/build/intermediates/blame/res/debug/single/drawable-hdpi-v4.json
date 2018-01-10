@@ -4,6 +4,10 @@
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\buleTooth\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }

@@ -1053,5 +1053,647 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 47,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 47,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 41,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 41,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 39,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 39,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 51,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 51,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 54,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 54,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 62,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 62,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 68,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 68,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 42,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 42,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endColumn": 33,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 599,
+                        "endColumn": 33,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 37,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 37,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 62,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 62,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 37,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 37,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 50,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 50,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 37,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 37,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 49,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 49,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 75,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 75,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 63,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 63,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 47,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 47,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 43,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 43,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 35,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 35,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 54,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 54,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endColumn": 45,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 45,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 48,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1276,
+                        "endColumn": 48,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 53,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 53,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 46,
+                    "endOffset": 1454
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 46,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1459,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2081
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2086,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2805
+                },
+                "from": {
+                    "file": "E:\\MyStudy\\panyong\\BlueToolth_APP\\buleTooth\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            }
+        ]
     }
 ]

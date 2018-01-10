@@ -51,4 +51,14 @@ public class TabPagerListViewItemModel {
     public void setRight(String right) {
         this.right = right;
     }
+
+    @Override
+    public String toString() {
+        return "TabPagerListViewItemModel{" +
+                "title='" + title + '\'' +
+                ", functionId=" + functionId +
+                ", danWei='" + danWei + '\'' +
+                ", right='" + right + '\'' +
+                '}';
+    }
 }

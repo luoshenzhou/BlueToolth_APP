@@ -14,6 +14,7 @@
         android:orientation="horizontal">
 
         <TextView
+            android:clickable="true"
             android:id="@+id/tv_undo"
             android:textColor="#ffffff"
             android:gravity="center_horizontal"
@@ -23,6 +24,7 @@
             android:text="UNDO" />
 
         <TextView
+            android:clickable="true"
             android:id="@+id/tv_set"
             android:textColor="#ffffff"
             android:gravity="center_horizontal"
@@ -32,6 +34,7 @@
             android:text="SET" />
 
         <TextView
+            android:clickable="true"
             android:id="@+id/tv_read"
             android:textColor="#ffffff"
             android:gravity="center_horizontal"
