@@ -1,0 +1,644 @@
+[
+    {
+        "outputFile": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 51,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 47,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 47,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 41,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 41,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 39,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 39,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 51,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 51,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 54,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 54,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 62,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 62,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 68,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 68,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 42,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 42,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 33,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 33,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 37,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 37,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 62,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 62,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 37,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 37,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 50,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 50,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 37,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 37,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 49,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 49,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 75,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 75,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 63,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 63,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 47,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 47,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 43,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 43,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 35,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 35,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 54,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endColumn": 54,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 45,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 45,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 48,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 48,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 53,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 53,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 46,
+                    "endOffset": 1459
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endColumn": 46,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1464,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1813
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1818,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2810
+                },
+                "from": {
+                    "file": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1324
+                    }
+                }
+            }
+        ]
+    }
+]

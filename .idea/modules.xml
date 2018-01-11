@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicatorSamples/ViewPagerIndicatorSamples.iml" filepath="$PROJECT_DIR$/ViewPagerIndicatorSamples/ViewPagerIndicatorSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/buleTooth/buleTooth.iml" filepath="$PROJECT_DIR$/buleTooth/buleTooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileUtility/mobileUtility.iml" filepath="$PROJECT_DIR$/mobileUtility/mobileUtility.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" />
     </modules>
   </component>

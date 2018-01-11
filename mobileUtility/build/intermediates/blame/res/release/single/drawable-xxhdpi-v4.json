@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\editsharp.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\drawable-xxhdpi\\editsharp.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\editsharp_focus.xml",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\mobileUtility\\src\\main\\res\\drawable-xxhdpi\\editsharp_focus.xml"
+    }
+]

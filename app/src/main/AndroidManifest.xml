@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.haozhi.machinestatu.fengjisystem">
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-feature android:name="android.hardware.usb.host" android:required="true" />
+    <uses-feature android:name = "com.android.future.usb.accessory"/>
 
     <use tools:overrideLibrary="android.support.v7.appcompat" />
     <application
@@ -12,13 +16,17 @@
 
         android:theme="@style/AppTheme1">
 
-    <activity android:name=".activity.MenuFragmentActivity">
+    <activity android:name=".com.apujiang.zhibozan.activity.LoginActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
+        <intent-filter>
+            <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>
+        </intent-filter>
     </activity>
+        <activity android:name=".activity.MenuFragmentActivity"/>
 </application>
 
     </manifest>

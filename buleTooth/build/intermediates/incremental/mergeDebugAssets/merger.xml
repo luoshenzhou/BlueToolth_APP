@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\MyStudy\panyong\BlueToolth_APP\buleTooth\src\main\assets"><file name="devices.txt" path="E:\MyStudy\panyong\BlueToolth_APP\buleTooth\src\main\assets\devices.txt"/><file name="J1I-W2100-17-4B-CHT.txt" path="E:\MyStudy\panyong\BlueToolth_APP\buleTooth\src\main\assets\J1I-W2100-17-4B-CHT.txt"/></source></dataSet><dataSet config="debug"><source path="E:\MyStudy\panyong\BlueToolth_APP\buleTooth\src\debug\assets"/></dataSet></merger>

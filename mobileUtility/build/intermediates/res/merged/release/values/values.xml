@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Mobile Utility</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="communcation_type">Type：</string>
+    <string name="device_close">Device close！</string>
+    <string name="device_open_fail">Device open fail！</string>
+    <string name="device_open_success">Device open success！</string>
+    <string name="menu_exit">Exit</string>
+    <string name="ok">OK</string>
+    <string name="open">Open</string>
+    <string name="param_isnull">Parm can not be null！</string>
+    <string name="read">Read</string>
+    <string name="read_ok">Parm query ok！</string>
+    <string name="save">Save</string>
+    <string name="save_ok">Parm save ok！</string>
+    <string name="select_bluetooth">Please select Bluetooth Device</string>
+    <string name="select_tip">Please select Comm_Type！</string>
+    <string name="set_ok">Parm set ok！</string>
+    <string name="setting">Setting</string>
+    <string name="usb">USB</string>
+    <string name="usb_attached">Device Found：</string>
+    <string name="usb_ids">2385-5734</string>
+    <string name="usb_product_id">60000</string>
+    <string name="usb_remove">Device remove：</string>
+    <string name="usb_vendor_id">4292</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    <style name="button_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="edittext_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textSize">8pt</item>
+        <item name="android:textColor">#FF00FF</item>
+        <item name="android:background">@drawable/editsharp</item>
+    </style>
+    <style name="text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#6e99a9</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_marginLeft">5dip</item>
+    </style>
+</resources>

@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="0dp"
+    android:orientation="vertical"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#E0E0E0"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="5dp"
+            android:text="@string/communcation_type"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/grpCommType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rdoBluetooth"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="20dp"
+                android:text="@string/bluetooth" />
+
+            <RadioButton
+                android:id="@+id/rdoUsb"
+                android:layout_gravity="center_vertical"
+                android:text="@string/usb" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnOpen"
+            style="@style/button_style"
+            android:text="@string/open" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listParams"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/txtLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textIsSelectable="true"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnSetting"
+            style="@style/button_style"
+            android:text="@string/setting" />
+
+        <Button
+            android:id="@+id/btnRead"
+            style="@style/button_style"
+            android:text="@string/read" />
+
+        <Button
+            android:id="@+id/btnSave"
+            style="@style/button_style"
+            android:text="@string/save" />
+    </LinearLayout>
+
+</LinearLayout>

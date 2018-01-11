@@ -1,37 +1,5 @@
 [
     {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_device_alarms.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_camera.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\FengJiSystem_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_text_color_indicator.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_text_color_indicator.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_camera.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_device_alarms.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
-    },
-    {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
     },
@@ -40,24 +8,8 @@
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
     },
     {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_calendar.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_calendar.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_calendar.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_calendar.xml"
-    },
-    {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_camera.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_location.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_location.xml"
     },
     {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_text_color_indicator.xml",
@@ -74,13 +26,5 @@
     {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_location.xml",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable\\perm_group_location.xml"
-    },
-    {
-        "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_text_color_indicator.xml",
-        "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\FengJiSystem_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_text_color_indicator.xml"
     }
 ]

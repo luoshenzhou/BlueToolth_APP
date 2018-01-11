@@ -29,16 +29,16 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => buleTooth\src\main\AndroidManifest.xml
-* assets\ => buleTooth\src\main\assets\
-* libs\d2xx.jar => buleTooth\libs\d2xx.jar
-* libs\xUtils-2.6.14.jar => buleTooth\libs\xUtils-2.6.14.jar
-* res\ => buleTooth\src\main\res\
-* src\ => buleTooth\src\main\java\
-* src\backup\params_EN_20151219.txt => buleTooth\src\main\resources\backup\params_EN_20151219.txt
-* src\backup\params_ZH_20151219.txt => buleTooth\src\main\resources\backup\params_ZH_20151219.txt
-* src\backup\strings_EN_20151219.xml => buleTooth\src\main\resources\backup\strings_EN_20151219.xml
-* src\backup\strings_ZH_20151219.xml => buleTooth\src\main\resources\backup\strings_ZH_20151219.xml
+* AndroidManifest.xml => mobileUtility\src\main\AndroidManifest.xml
+* assets\ => mobileUtility\src\main\assets\
+* libs\d2xx.jar => mobileUtility\libs\d2xx.jar
+* libs\xUtils-2.6.14.jar => mobileUtility\libs\xUtils-2.6.14.jar
+* res\ => mobileUtility\src\main\res\
+* src\ => mobileUtility\src\main\java\
+* src\backup\params_EN_20151219.txt => mobileUtility\src\main\resources\backup\params_EN_20151219.txt
+* src\backup\params_ZH_20151219.txt => mobileUtility\src\main\resources\backup\params_ZH_20151219.txt
+* src\backup\strings_EN_20151219.xml => mobileUtility\src\main\resources\backup\strings_EN_20151219.xml
+* src\backup\strings_ZH_20151219.xml => mobileUtility\src\main\resources\backup\strings_ZH_20151219.xml
 
 Missing Android Support Repository:
 -----------------------------------
