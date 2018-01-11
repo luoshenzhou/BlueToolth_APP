@@ -3,8 +3,13 @@ package com.haozhi.machinestatu.fengjisystem.base;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuInflater;
 
+
+import com.haozhi.machinestatu.fengjisystem.R;
 
 import butterknife.ButterKnife;
 
@@ -39,4 +44,6 @@ public  abstract class BaseActionBarActivity extends ActionBarActivity {
     public abstract Toolbar setToolBar();
 
     public abstract String getToolBarTitle();
+
+
 }

@@ -12,36 +12,36 @@
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected_pressed.9.png"
     },
     {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_selected.9.png",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected.9.png"
-    },
-    {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_selected.9.png",
         "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected.9.png"
     },
     {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
-    },
-    {
-        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\perm_group_location_selected.png",
-        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\perm_group_location_selected.png"
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_selected.9.png",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_selected.9.png"
     },
     {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\perm_group_location_normal.png",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\perm_group_location_normal.png"
     },
     {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\perm_group_location_selected.png",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\perm_group_location_selected.png"
+    },
+    {
+        "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
         "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
         "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\exploded-aar\\BlueToolth_APP\\viewPagerIndicatorLibrary\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_unselected_focused.9.png",
-        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_unselected_focused.9.png"
-    },
-    {
         "merged": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\perm_group_device_alarms_normal.png",
         "source": "E:\\MyAndroidStudio\\FengJiSystem_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\perm_group_device_alarms_normal.png"
+    },
+    {
+        "merged": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_unselected_focused.9.png",
+        "source": "E:\\MyAndroidStudio\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\src\\main\\res\\drawable-xhdpi\\custom_tab_indicator_unselected_focused.9.png"
     },
     {
         "merged": "E:\\MyStudy\\panyong\\BlueToolth_APP\\ViewPagerIndicatorSamples\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\custom_tab_indicator_unselected_focused.9.png",

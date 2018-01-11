@@ -118,6 +118,9 @@ public class MenuFragmentActivity extends BaseActionBarActivity {
             }
         };
 
+        //=======加上这两句才会有菜单和箭头的切换效果，否则只会显示箭头
+        mDrawerToggle.syncState();
+        mDrawerLayout.setDrawerListener(mDrawerToggle);
     }
 
 
@@ -139,7 +142,7 @@ public class MenuFragmentActivity extends BaseActionBarActivity {
 
     //打开侧边栏菜单
     public void openMenu() {
-        mDrawerLayout.openDrawer(Gravity.RIGHT);
+        mDrawerLayout.openDrawer(Gravity.LEFT);
     }
 
     @Override
